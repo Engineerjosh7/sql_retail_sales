@@ -5,7 +5,8 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis 
+**Project Title**: Retail Sales Analysis
+
 **Database**: `p1_retail_db`
 
 This project demonstrates practical SQL skills by analyzing a retail sales dataset. From cleaning the data to extracting insights, I used SQL to answer key business questions and uncover patterns in customer behavior, revenue trends, and product performance.
