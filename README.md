@@ -1,7 +1,7 @@
 # 🛒 Retail Sales Analysis with SQL
 
 ![SQL Badge](https://img.shields.io/badge/SQL-Analysis-blue)  
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## Project Overview
 
